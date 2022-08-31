@@ -206,6 +206,11 @@ input[type="button"] {
   text-decoration: none;
 }
 
+.notFound{
+  color: #9b0202;
+}
+
+
 @media (max-width: 1085px) {
   .content {
     flex-flow: column wrap;
